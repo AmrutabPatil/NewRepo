@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name"></string>
+
+    <string name="navigation_open">Open Navigation drawer</string>
+    <string name="navigation_close">Close Navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invali_phone">Invalid Mobile Number</string>
+    <string name="invalid_phone">Invalid Mobile Number</string>
+    <string name="menu_home"><font color="#303F9F" />मुख्यपृष्ठ</string>
+    <string name="menu_home1">मुख्यपृष्ठ</string>
+    <string name="menu_contact">संपर्क</string>
+    <string name="menu_share">शेयर</string>
+    <string name="privacy_policys">प्रायवसी पॉलिसी</string>
+    <string name="msg_loading">Loading...</string>
+    <string name="menu_profile1">प्रोफाइल</string>
+    <string name="menu_profile"><font color="#303F9F" />प्रोफाइल</string>
+    <string name="title_activity_dash_board_main">DashBoardMain</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">ई-जनता दरबार</string>
+    <string name="nav_header_subtitle">ऑनलाइन तक्रार निवारण कक्ष</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_log_out">बाहेर पडा</string>
+    <string name="menu_tickets"><font color="#303F9F" />तक्रारी</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="speech_not_supported">speech_not_supported</string>
+    <string name="speech_prompt">speech_prompt</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

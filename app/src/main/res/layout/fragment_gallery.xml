@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_notifications_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".ui.gallery.GalleryFragment"
+    android:orientation="vertical">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+   <ImageView
+       android:layout_width="400dp"
+       android:layout_height="179dp"
+       android:layout_gravity="center"
+       android:src="@drawable/contact123" />
+
+   <!--<TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="12dp"
+       android:paddingStart="12dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:textSize="16dp"
+       android:text="माननीय प्रा.तानाजी सावंत, आरोग्य मंत्री व कुटुंब कल्याण मंत्री महाराष्ट्र राज्य आणि पालक मंत्री धारशीव यांच्या मार्फत धाराशीव
+ जिल्हयातील सर्व नागरिकांसाठी ई-जनता दरबार ऑनलाइन पद्धतीने या ॲप मार्फत सुरू करण्यात आलेला आहे."/>-->
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="12dp"
+       android:paddingStart="12dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:textSize="16dp"
+       android:text="1)आपण या ॲप मध्ये लॉगिन केल्यावर आपल्याला तक्रार नोंदवा हे ऑप्शन दिलेले आहे त्या मध्ये आपण तक्रारीचा विषय निवडून खाली तक्रार संक्षिप्त लिहून जर आपणास फोटो/ऑडिओ/व्हिडिओ जोडून संपूर्ण तक्रार नोंदवू शकता."/>
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="12dp"
+       android:paddingStart="12dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:textSize="16dp"
+       android:text="2)आपण तक्रार नोंदवल्यानंतर आपण त्याची स्थिति एकूण तक्रारी या ऑप्शन मध्ये पाहू शकता. जर आपल्याला तक्रार हटवायची असेल तर आपण सक्रिय तक्रारी या ऑप्शन मध्ये जाऊन हटवू शकता."/>
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="12dp"
+       android:paddingStart="12dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:textSize="16dp"
+       android:text="3)आपल्याला संपूर्ण ॲपबद्दल अभिप्राय नोंदवायचा असेल तर आपण अभिप्राय नोंदवा या ऑप्शन मध्ये नोंदवू शकता."/>
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="12dp"
+       android:paddingStart="12dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:textSize="16dp"
+       android:text="4)आपल्याला प्रोफाइल मध्ये काही फेरबदल करायचं असेल तर त्या साठी
+ प्रोफाइल ऑप्शन दिलेले आहे त्या ऑप्शन मध्ये जाऊन आपण फेरबदल करू शकता. कृपया तक्रार नोंदवायच्या आधी आपण प्रोफाइल मधली सर्व माहिती भरणे अनिवार्य आहे."/>
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="12dp"
+       android:paddingStart="12dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:textSize="16dp"
+       android:text="5)जर या व्यतिरिक्त आपणास काही समस्या संबंधित संपर्क कार्यालयास संपर्क करायचं असेल तर खाली दिलेल्या ईमेल वर आपण मेल करून संपर्क करू शकता धन्यवाद..."/>
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="12dp"
+       android:paddingStart="12dp"
+       android:paddingTop="@dimen/_5sdp"
+       android:textColor="@color/colorBlueGroup"
+       android:textStyle="bold"
+       android:textSize="20dp"
+       android:text="ईमेल - contact@axo.org"/>
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="12dp"
+       android:paddingStart="12dp"
+       android:paddingTop="@dimen/_5sdp"
+       android:paddingBottom="20dp"
+       android:textColor="@color/colorBlueGroup"
+       android:textStyle="bold"
+       android:textSize="20dp"
+       android:text="पत्ता -  कात्रज, पुणे."/>
+</LinearLayout>
+</ScrollView>
